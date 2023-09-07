@@ -1,6 +1,6 @@
 <picture>
- <img alt="Lindsay Kriz" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fradaris.com%2Fp%2FLindsay%2FBordelon%2F&psig=AOvVaw0DF0A6Bw-N46UmrqXbEiFj&ust=1694215719676000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCKj13cPTmYEDFQAAAAAdAAAAABAE">
+ <img alt="Lindsay Kriz" src="https://media.licdn.com/dms/image/C4E03AQHo6Xd1DD0kvw/profile-displayphoto-shrink_200_200/0/1550700740237?e=1699488000&v=beta&t=rhdeqMWQ9nz5sFMbR6ud_zZyRWbuia8H0MAcfb2y2xk">
 </picture>
 
-#Lindsay Kriz CSPB 3112 Semester Project
+# Lindsay Kriz CSPB 3112 Semester Project
 
