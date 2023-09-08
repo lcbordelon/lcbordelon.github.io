@@ -4,3 +4,12 @@
 
 # Lindsay Kriz CSPB 3112 Semester Project
 
+## 09/04/2023 Project Update
+<ol>
+ <li>Last week I researched the type of project I want to complete this semester. I also reviewed the LinkedIn Learning course offerings and saved courses that I want to complete.</li>
+ <li>This week I plan on beginning the 'straw man' plan for my project. I also want to start the repo for my project.</li>
+ <li>There isn't anything impeding my progress thus far.</li>
+ <li>One of the successful things I did last week was posting in Piazza about my project idea. I really liked the feedback I got and it gave me a good path forward for setting up my project.</li>
+</ol>
+
+
