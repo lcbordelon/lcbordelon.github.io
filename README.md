@@ -7,7 +7,7 @@
 ## Project Proposal - Large Scale Code Repositories
 <ul>
  <li>Vision statement: This project will expand my professional skills and knowledge by helping me learn and become more comfortable with large scale code repositories (repos). We work with many code repos in school, but the sizes are limited. The jump is quite large from an undergrad academic code repo to a professional code repo.</li>
- <li>This week I plan on beginning the 'straw man' plan for my project. I also want to start the repo for my project.</li>
+ <li>This project is important to me because I am currently struggling with navigating a large code repo in my position as a Junior Software Developer. I'm hoping this project will help me feel more confident and add more value in my day to day work.</li>
  <li>There isn't anything impeding my progress thus far.</li>
  <li>One of the successful things I did last week was posting in Piazza about my project idea. I really liked the feedback I got and it gave me a good path forward for setting up my project.</li>
 </ul>
