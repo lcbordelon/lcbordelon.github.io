@@ -4,6 +4,16 @@
 
 # Lindsay Kriz CSPB 3112 Semester Project
 
+
+## 09/14/2023 Project Update
+<ol>
+ <li>Last week I worked through my Company's repo to get ideas for my project. During that review I realized that it would be more beneficial for me to do my project on things that can be difficult to grasp for all new developers - version control with git, utilizing and keeping many libraries (node modules and bower libraries) up to date and best practices for organizing and navigating large code repos. I began my more in depth research on node modules and bower libraries. I also drafted my project proposal.</li>
+ <li>This week I plan on drafting the outline for my new developer 'How To' guide. I also plan on completing at least one hour of LinkedIn Learning and updating my GitHub page to make it look more professional.</li>
+ <li>There isn't anything impeding my progress thus far.</li>
+ <li>One of the successful things I did last week was thinking through my project while working on tasks during my daily job tasks. It helped me think about what type of project would actually be beneficial for me and others. </li>
+</ol>
+
+
 ## Project Proposal - "Version Control, Libraries & Large Repos - Making the Jump from Academic to Professional Software Development"
 <ul>
  <li>Vision statement: This project will expand my professional skills and knowledge by helping me learn and become more comfortable with large scale code repositories (repos), version control and libraries. We work with many code repos in school, but the size and complexity are limited. The jump is quite large from an undergrad academic code repo to a professional code repo. This project will help be become more proficient in working with professional code repos and may provide as a guide for future software developers looking to move into a fulltime positions. </li>
