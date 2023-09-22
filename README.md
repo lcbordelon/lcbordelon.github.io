@@ -20,7 +20,7 @@
  <li>Motivation: This project is important to me because I am currently struggling with navigating a large code repo and managing version control in my position as a Junior Software Developer. I'm hoping this project will help me feel more confident and add more value in my day to day work.</li>
  <li>Specific and measurable goals (learning objectives) for the project:
      <ul>
-      <li>Complete 3-5 courses on LinkedIn Learning, including (but not limited to): Git Essential Training, Programming Foundations: Version Control with Git, Manage third-party packages with npm, Using Using common Bitbucket features, Docker vs. Kubernetes</li>
+      <li>Complete 3-5 courses on LinkedIn Learning, including (but not limited to): Git Essential Training, Programming Foundations: Version Control with Git, Manage third-party packages with npm, Using common Bitbucket features, Docker vs. Kubernetes</li>
       <li>Compile a 'How To' guide for new software developers working with a professional code repo for the first time.</li>
       <li>Document project progress and the ‘How To’ guide on a GitHub page</li>
      </ul>
