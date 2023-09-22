@@ -43,9 +43,6 @@
  </li>
  <li>Project Schedule</li>
  <div class="row">
-  <div class="column">Week</div>
-  <div class="column">Task</div>
- </div>
 </ul>
 
 
