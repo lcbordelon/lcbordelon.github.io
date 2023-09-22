@@ -41,6 +41,11 @@
       <li>Posting the ‘How To’ guide to LinkedIn and the CUPBCS Slack channel – 10%</li>
      </ul>
  </li>
+ <li>Project Schedule</li>
+ | Week  | Task |
+| ------------- | ------------- |
+| 09/18/2023  | Finish project proposal  |
+| 09/25/2023  | Complete ‘Git Essential Training’ in LinkedIn Learning  |
 </ul>
 
 
