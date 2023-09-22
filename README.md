@@ -5,6 +5,15 @@
 # Lindsay Kriz CSPB 3112 Semester Project
 
 
+## 09/21/2023 Project Update
+<ol>
+ <li>This past week I worked further on my project proposal. I created a weekly schedule for the semester to keep me on track. I also did a lot of version control work at my job this week that will help my project and 'How To' guide.</li>
+ <li>This week, per the weekly schedule in my project proposal, I'll complete the course 'Git Essential Training' in LinkedIn Learning.</li>
+ <li>The only thing impeding my progress this week and next week is that I'm traveling for work both weeks. I plan on making progress on the weekly task even while traveling for work.</li>
+ <li>One of the successful things I did last week was utilizing my project management experience to update my project proposal and create a weekly schedule. </li>
+</ol>
+
+
 ## 09/14/2023 Project Update
 <ol>
  <li>Last week I worked through my Company's repo to get ideas for my project. During that review I realized that it would be more beneficial for me to do my project on things that can be difficult to grasp for all new developers - version control with git, utilizing and keeping many libraries (node modules and bower libraries) up to date and best practices for organizing and navigating large code repos. I began my more in depth research on node modules and bower libraries. I also drafted my project proposal.</li>
