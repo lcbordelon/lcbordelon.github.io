@@ -42,10 +42,10 @@
      </ul>
  </li>
  <li>Project Schedule</li>
- | Week  | Task |
-| ------------- | ------------- |
-| 09/18/2023  | Finish project proposal  |
-| 09/25/2023  | Complete ‘Git Essential Training’ in LinkedIn Learning  |
+ <div class="row">
+  <div class="column">Week</div>
+  <div class="column">Task</div>
+ </div>
 </ul>
 
 
