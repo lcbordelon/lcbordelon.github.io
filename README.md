@@ -16,23 +16,30 @@
 
 ## Project Proposal - "Version Control, Libraries & Large Repos - Making the Jump from Academic to Professional Software Development"
 <ul>
- <li>Vision statement: This project will expand my professional skills and knowledge by helping me learn and become more comfortable with large scale code repositories (repos), version control and libraries. We work with many code repos in school, but the size and complexity are limited. The jump is quite large from an undergrad academic code repo to a professional code repo. This project will help be become more proficient in working with professional code repos and may provide as a guide for future software developers looking to move into a fulltime positions. </li>
- <li>This project is important to me because I am currently struggling with navigating a large code repo and managing version control in my position as a Junior Software Developer. I'm hoping this project will help me feel more confident and add more value in my day to day work.</li>
+ <li>Vision statement: Starting a fulltime position as a software developer is an exciting time. Junior developers gain a wealth of knowledge throughout a Computer Science program, but there is a significant amount of topics that are not covered in school that are required of new developers. Some of the topics expected of new developers include version control, working with large-scale code repositories and third-party libraries. This project will expand my professional skills and knowledge by helping me learn and become more comfortable with large-scale code repositories (repos), version control and libraries. We work with many code repos in school, but the size and complexity are limited. The jump is quite large from an undergrad academic code repo to a professional code repo. This project will help be become more proficient in working with professional code repos and may provide as a guide for future software developers looking to move into a fulltime positions. </li>
+ <li>Motivation: This project is important to me because I am currently struggling with navigating a large code repo and managing version control in my position as a Junior Software Developer. I'm hoping this project will help me feel more confident and add more value in my day to day work.</li>
  <li>Specific and measurable goals (learning objectives) for the project:
      <ul>
       <li>Complete 3-5 courses on LinkedIn Learning, including (but not limited to): Git Essential Training, Programming Foundations: Version Control with Git, Manage third-party packages with npm, Using Using common Bitbucket features, Docker vs. Kubernetes</li>
       <li>Compile a 'How To' guide for new software developers working with a professional code repo for the first time.</li>
+      <li>Document project progress and the ‘How To’ guide on a GitHub page</li>
      </ul>
  </li>
  <li>Risks to project completion:
      <ul>
-      <li>Needing to learn a new technology (Docker).</li>
-      <li>Time required to allow for asking questions to experienced developers.</li>
+      <li>Needing to learn a new technology (Docker)</li>
+      <li>Time required to allow for asking questions to experienced developers</li>
+      <li>Time constraints between working a full-time job, working a part-time job and completing two courses this semester</li>
      </ul>
  </li>
  <li>The mitigation strategy for the items above is to put effort into scheduling the completion of milestones in the project with ample time built in to ask questions when I inevitably hit road blocks.</li>
  <li>
-  The assessment for this project will be 60% for completion of at least 20 hours of LinkedIn Learning courses and 40% for the completion of the 'How To' guide. Overall, this project will be complete once I have a 'How To' guide that I can use moving forward in my career. I also want to post the 'How To' guide on LinkedIn and the CUPBCS Slack channel for others to utilize.
+  The assessment for this project will follow the breakdown below:
+   <ul>
+      <li>Completion of at least 20 hours of LinkedIn Learning courses – 50%</li>
+      <li>Completion of the 'How To' guide – 40%</li>
+      <li>Posting the ‘How To’ guide to LinkedIn and the CUPBCS Slack channel – 10%</li>
+     </ul>
  </li>
 </ul>
 
