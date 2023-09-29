@@ -4,6 +4,14 @@
 
 # Lindsay Kriz CSPB 3112 Semester Project
 
+## 09/28/2023 Project Update
+<ol>
+ <li>This past week I completed the course 'Git Essential Training' in LinkedIn Learning, per the schedule outlined in my project proposal. I also had a few meetings at work that generated great notes on using Git in a professional setting.</li>
+ <li>This week, per the weekly schedule in my project proposal, I'll create the ‘How To’ guide and add a section for version control & Git. I'll also include the notes from my meetings this past week</li>
+ <li>I shouldn't have anything impeding my progress over the next week besides having the flu right now (thanks, work conference).</li>
+ <li>One of the successful things I did last week was not being afraid to ask 'dumb' questions to my coworkers and managers about the use of version control in a professional setting. They liked being included in the discussion and shared many helpful tips and tricks. </li>
+</ol>
+
 
 ## 09/21/2023 Project Update
 <ol>
