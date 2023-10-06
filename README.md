@@ -4,6 +4,14 @@
 
 # Lindsay Kriz CSPB 3112 Semester Project
 
+## 10/05/2023 Project Update
+<ol>
+ <li>This past week I created the 'How To Guide' for my project, per the schedule outlined in my project proposal. I started the sections for 'Version Control' and 'Large Code Repositories' using information from the 'Git Essential Training' LinkedIn course and tips from my coworkers.</li>
+ <li>This week, per the weekly schedule in my project proposal, I plan on completing the LinkedIn Learning course 'Programming Foundations: Version Control with Git’. I'll add notes from this course to my 'How To Guide'.</li>
+ <li>The only thing that may impede my progress over the next week is that I have a test in my Data Science Algorithms course. However, I plan on doing the majority of the studying over the weekend.</li>
+ <li>I noticed over the past week that I need to commit more frequent chunks of time to this progress during the week. The workload for the Data Science course is increasing, which means I need to schedule smaller, but more frequent, chunks of time to this project to keep myself on track. </li>
+</ol>
+
 ## 09/28/2023 Project Update
 <ol>
  <li>This past week I completed the course 'Git Essential Training' in LinkedIn Learning, per the schedule outlined in my project proposal. I also had a few meetings at work that generated great notes on using Git in a professional setting.</li>
