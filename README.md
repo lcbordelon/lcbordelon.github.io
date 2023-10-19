@@ -4,6 +4,18 @@
 
 # Lindsay Kriz CSPB 3112 Semester Project
 
+## Mid-Semester Project Update
+I'm feeling good about my progress on my project thus far. The 'How To Guide' has really started to take shape and I'm excited to see where it ends up. I'm staying on track with my weekly plan which makes me think I'll accomplish all of my original goals for the project. However, I'm hoping I don't have too many more weeks like this one where I add more to the project plan. That could potentially derail my progress.
+Initally I thought that completing rudimentary courses in LinkedIn Learning wouldn't yield a 'hard enough' project, but I'm actually really thankful for the foundation the courses are giving me. So many pieces of information are assumed in the professional space and I'm happy that I've been given the time to concretely learn them. 
+
+## 10/19/2023 Project Update
+<ol>
+ <li>This past week I worked on completing the LinkedIn Learning course "Learning Jira (Cloud Edition)". Per my weekly schedule, I was supposed to complete the course "Using common Bitbucket features", but I realized that that isn't a full course, it's a snippet of the course "Planning and Releasing Software in Jira". I've worked in Jira for many years on the business side, but since I'm new to working in Jira on the developer side, I decided to start with the first Jira course in that instructor's series. </li>
+ <li>This week, per the weekly schedule in my project proposal, I plan on adding a section to my 'How To Guide' on using Bitbucket and Jira. I also plan on completing the two Jira courses I discussed above. This is more than what is on my weekly schedule, but I think I can get it done.</li>
+ <li>I don't have anything this upcoming week that should impede my progress.</li>
+ <li>I'm glad I decided to do more Jira courses than originally planned. I know it's not always the best to deviate from the original plan, but I think doing the extra courses will create a much better end result in my 'How To Guide'.</li>
+</ol>
+
 ## 10/12/2023 Project Update
 <ol>
  <li>This past week I completed the LinkedIn Learning course 'Programming Foundations: Version Control with Git’. I didn't have time to add more notes to my 'How To Guide'. I'll need to do that this upcoming week.</li>
