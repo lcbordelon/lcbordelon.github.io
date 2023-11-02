@@ -4,6 +4,15 @@
 
 # Lindsay Kriz CSPB 3112 Semester Project
 
+
+## 11/01/2023 Project Update
+<ol>
+  <li>This past week I worked on completing the two LinkedIn Learning courses "Learning Jira (Cloud Edition)" and "Planning and Releasing Software with Jira". Those courses are pretty dense and I had to stop and take notes frequently. It made the relatively short courses more time consuming. </li>
+ <li>This week, I need to spend substantial time adding notes to my 'How To Guide' from the Jira courses I completed. I took a lot of notes and I expect that it will take me a few hours to add those notes to the 'How To Guide' and work on the formatting. The formatting is a bit unorganized right now.</li>
+ <li>I'm about to leave for vacation, but I don't think that will impede my progress since I plan on working on my 'How To Guide' while driving (I won't be driving, of course).</li>
+ <li>I do feel a bit behind right now since the Jira courses took so long to digest. I'm glad we have a break coming up in a few weeks, it will give me multiple uninterrupted days to catch up on anything I feel behind on.</li>
+</ol>
+
 ## Mid-Semester Project Update
 I'm feeling good about my progress on my project thus far. The 'How To Guide' has really started to take shape and I'm excited to see where it ends up. I'm staying on track with my weekly plan which makes me think I'll accomplish all of my original goals for the project. However, I'm hoping I don't have too many more weeks like this one where I add more to the project plan. That could potentially derail my progress.
 Initally I thought that completing rudimentary courses in LinkedIn Learning wouldn't yield a 'hard enough' project, but I'm actually really thankful for the foundation the courses are giving me. So many pieces of information are assumed in the professional space and I'm happy that I've been given the time to concretely learn them. 
