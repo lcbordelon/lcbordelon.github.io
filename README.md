@@ -5,6 +5,14 @@
 # Lindsay Kriz CSPB 3112 Semester Project
 
 
+## 11/10/2023 Project Update
+<ol>
+  <li>This past week I didn't make a lot of progress because I was out of town on vacation in a remote location and I had a data science test this week that I had to study for. I did make a few edits to my 'How To Guide' during the week when things came up at work that I thought would be useful to add. </li>
+ <li>This week and next week (since the week after is Thanksgiving, I need to spend time finishing the LinkedIn Learning courses on my weekly plan. I also want to aim to finish the draft of my 'How To Guide' by the end of Thanksgiving week. That will give me time to let a few of my coworkers review it before it's due. </li>
+ <li>I have to travel for work all of next week and be in all day meetings. This could impede my progress, but I plan to work on my 'How To Guide' while on the flights. </li>
+ <li>I still feel behind right now, but I'm looking forward to Thanksgiving break as a chance to catch up and finish my 'How To Guide'. </li>
+</ol>
+
 ## 11/01/2023 Project Update
 <ol>
   <li>This past week I worked on completing the two LinkedIn Learning courses "Learning Jira (Cloud Edition)" and "Planning and Releasing Software with Jira". Those courses are pretty dense and I had to stop and take notes frequently. It made the relatively short courses more time consuming. </li>
