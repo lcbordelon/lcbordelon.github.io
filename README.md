@@ -4,7 +4,7 @@
 
 # Lindsay Kriz CSPB 3112 Semester Project
 
-## 11/1/2023 Project Update
+## 11/16/2023 Project Update
 <ol>
   <li>This past week I didn't make much progress because I was traveling for work the entire week. I'm a bit behind in my schedule right now, but I have a significant amount of time available over the next week to dedicate to this project. I did submit what I have thus far of my 'How To Guide' to one of my coworkers to review this week while I was traveling. I should received edits back from him at the end of this week. </li>
  <li>This week I plan on finishing what's remaining of my LinkedIn Learning courses. I then plan on finishing the draft of my 'How To Guide'. One of my coworkers is already reviewing the 'How To Guide', but I plan on sending it to a few others for their review next week. After I apply their edits, I should be close to finalizing the 'How To Guide'.</li>
