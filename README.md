@@ -4,6 +4,14 @@
 
 # Lindsay Kriz CSPB 3112 Semester Project
 
+## 12/07/2023 Project Update
+<ol>
+  <li>This past week I finished the remaining LinkedIn Learning courses and added more notes to my 'How To Guide'. I've renamed the 'How To Guide' to 'Junior Developer Help Guide'. </li>
+ <li>This week I plan on finalizing my 'Junior Developer Help Guide' and if I have extra time I'll complete another LinkedIn Learning course that could add more good details to my guide. Once my guide is finished, I'm first going to look into posting it on Medium.com. If I complete that, then I'll post it on LinkedIn and on the CUPBCS slack channel. </li>
+ <li>I don't have anything that should impeded my progress over the next week. I'll be pushing to finish everything on time. </li>
+ <li>I'm excited to finish this project and post it to Medium.com. I'm hoping the article will be a great add to my resume.</li>
+</ol>
+
 ## 11/16/2023 Project Update
 <ol>
   <li>This past week I didn't make much progress because I was traveling for work the entire week. I'm a bit behind in my schedule right now, but I have a significant amount of time available over the next week to dedicate to this project. I did submit what I have thus far of my 'How To Guide' to one of my coworkers to review this week while I was traveling. I should received edits back from him at the end of this week. </li>
