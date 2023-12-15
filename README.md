@@ -7,10 +7,10 @@
 ## Final Report
 I finished the majority of what I set out to do with my project, but my grading is as follows:
 <ul>
- <li>This past week I worked on finalizing my 'Junior Developer Help Guide'. I still need to format the Git and Jira sections and post it to Medium.com, but otherwise I like it. I'm going to continue adding to it as I encounter obstacles in my day job.</li>
- <li>N/A</li>
- <li>I was limited by time and health over the past few weeks. I'm pregnant (on purpose :) ) and it's been making me very sick the past few weeks. I've essentially had to mega prioritize what I use my 'good' hours on, but I'm still happy with what I've accomplished this semester. </li>
- <li>Although my project may not be very 'complicated', I have benefitted from spending time learning more about the foundational skills we have to use as new developers. My coworkers and manager also really like my Guide. I definitely plan on continuously adding to it and posting it to Medium.com in hopes that other new developers will find it helpful.</li>
+ <li>Completion of at least 20 hours of LinkedIn Learning courses - 50, complete. I didn't fulfill all of these hours on LinkedIn Learning. I watched a lot of YouTube videos and Udemy courses, since my Company gives us access to Udemy.</li>
+ <li>Completion of the 'How To' guide - 35, largely complete. I need to format the Git and Jira sections of the guide, but the content is complete for now. </li>
+ <li>Posting the 'How To' guide to LinkedIn and the CUPBCS Slack channel - 0, not complete, I'm going to post the guide on Medium.com once I finish formatting the Git and Jira sections.</li>
+ <li>Total score - 85%</li>
 </ul>
 
 ## 12/14/2023 Project Update
