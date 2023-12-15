@@ -5,6 +5,8 @@
 # Lindsay Kriz CSPB 3112 Semester Project
 
 ## Final Report
+I enjoyed spending the time required this semester for my project. It was a current need of mine to spend more time understanding a few basic concepts that juionr developers encounter and I don't have time in my normal workday to watch courses to help me learn more.
+
 I finished the majority of what I set out to do with my project, but my grading is as follows:
 <ul>
  <li>Completion of at least 20 hours of LinkedIn Learning courses - 50, complete. I didn't fulfill all of these hours on LinkedIn Learning. I watched a lot of YouTube videos and Udemy courses, since my Company gives us access to Udemy.</li>
