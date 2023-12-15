@@ -4,6 +4,14 @@
 
 # Lindsay Kriz CSPB 3112 Semester Project
 
+## 12/14/2023 Project Update
+<ol>
+ <li>This past week I worked on finalizing my 'Junior Developer Help Guide'. I still need to format the Git and Jira sections and post it to Medium.com, but otherwise I like it. I'm going to continue adding to it as I encounter obstacles in my day job.</li>
+ <li>N/A</li>
+ <li>I was limited by time and health over the past few weeks. I'm pregnant (on purpose :) ) and it's been making me very sick the past few weeks. I've essentially had to mega prioritize what I use my 'good' hours on, but I'm still happy with what I've accomplished this semester. </li>
+ <li>Although my project may not be very 'complicated', I have benefitted from spending time learning more about the foundational skills we have to use as new developers. My coworkers and manager also really like my Guide. I definitely plan on continuously adding to it and posting it to Medium.com in hopes that other new developers will find it helpful.</li>
+</ol>
+
 ## 12/07/2023 Project Update
 <ol>
   <li>This past week I finished the remaining LinkedIn Learning courses and added more notes to my 'How To Guide'. I've renamed the 'How To Guide' to 'Junior Developer Help Guide'. </li>
